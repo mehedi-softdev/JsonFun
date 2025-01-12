@@ -6,7 +6,7 @@
 ## Installation Guide
 
 ### Windows
-1. Download the `.msi` installer from the [Releases](https://github.com/your-repo/releases) section.
+1. Download the `.msi` installer from the [Releases](https://github.com/mehedisoftdev/JsonFun/releases) section.
 2. Run the `.msi` file and follow the installation instructions.
 
 ### Other Operating Systems (Linux, macOS)
